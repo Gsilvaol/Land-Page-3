@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Land Page 2 </h1>
 
 <p align="center">
 Land Page aula 2, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -21,6 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Pagina web desenvolvida para  ajudar a relembrar conceitos do HTML e CSS.
 
-- [visite o projeto online] (https://gsilvaol.github.io/nlw-setup/)
+
+- [visite o projeto online] (https://gsilvaol.github.io/Land-Page-3/)
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
